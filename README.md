@@ -1,7 +1,7 @@
 # Manning Dashboard
 ### This project will only be worked on as time allows.
 ## Objective
-Provide a manning dashboard to show current manpower levels across the Wing (promote now). 
+Provide a manning dashboard to show current manpower levels across the Wing. If this doesn't suck, this is something that could squirrel its way into being AF-wide (promote now). 
 ### Skills Needed/Developed
 - Visual Studios IDE
 - ASP.NET MVC
