@@ -2,7 +2,7 @@
 ### This project will only be worked on as time allows.
 ## Objective
 Provide a manning dashboard to show current manpower levels across the Wing (promote now). 
-### Skills Needed/Developed
+### Skills Needed/Developed (Read the documentation!)
 - Visual Studios IDE
 - ASP.NET MVC
 - HTML/CSS
