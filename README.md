@@ -21,4 +21,6 @@ This project is an extracurricular project established with <b>training</b> in m
 ### Other
 The UMD and UPMR are entirely <B>PII</B>. When you are ready for them to see what raw data you are working with, contact SSgt Goldstein.
 
+This will be developed on the DevLAN. We're still waiting on accounts, but this would be a good time to make your teams of 2-3 people and establish your designs.
+
 Any questions or comments can go to SSgt Goldstein or SSgt McQuillan. Should you choose to take on this project, send one of us a mock up of your UI and your design before you get started.
