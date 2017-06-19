@@ -19,4 +19,4 @@ Provide a manning dashboard to show current manpower levels across the Wing (pro
 ### SSgt Goldstein's Take
 This project is an extracurricular project established with <b>training</b> in mind. You aren't expected to know SQL, HTML, CSS, etc. right off the bat but the only way to learn is to read it and try it. This would be a great, unclassified example of something that you could use to show a potential employer of your abilities. Doing this part by part will make it easier for you to grasp the concepts. <B>Additionally, I'd like to see teamwork here.</B> Up until now, we've been doing a bunch of projects as individuals. This would be a great opportunity to develop something as a team.
 ### Other
-The UMD and UPMR are entirely <B>PII</B>. If you need them to see what raw data you are working with, contact SSgt Goldstein.
+The UMD and UPMR are entirely <B>PII</B>. When you are ready for them to see what raw data you are working with, contact SSgt Goldstein.
